@@ -1,3 +1,5 @@
+// setup parameters for the entire application as well as the application logic
+
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
